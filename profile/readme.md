@@ -38,11 +38,11 @@ Happy DevOps Learning! 👩‍💻👨‍💻
 
 # Apply for DevOps Internship
 
-[Apply Now]()
+[Apply Now](https://forms.gle/uLGHfcvXZWG9LARK9)
 
 ![flow chart](images/complete-learning-flow.drawio-5.png)
 
-[Apply Now]()
+[Apply Now](https://forms.gle/uLGHfcvXZWG9LARK9)
 
 ---
 
