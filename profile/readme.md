@@ -40,7 +40,7 @@ Happy DevOps Learning! 👩‍💻👨‍💻
 
 [Apply Now](https://forms.gle/uLGHfcvXZWG9LARK9)
 
-![flow chart](images/complete-learning-flow.drawio-5.png)
+![flow chart](profile/images/complete-learning-flow.drawio-5.png)
 
 [Apply Now](https://forms.gle/uLGHfcvXZWG9LARK9)
 
@@ -50,7 +50,7 @@ Happy DevOps Learning! 👩‍💻👨‍💻
 
 [Volunteer Now](https://bit.ly/47RW4Ie)
 
-[![Volunteer Now](images/volunteer-hiring.jpg)](https://bit.ly/47RW4Ie)
+[![Volunteer Now](profile/images/volunteer-hiring.jpg)](https://bit.ly/47RW4Ie)
 
 [Volunteer Now](https://bit.ly/47RW4Ie)
 
