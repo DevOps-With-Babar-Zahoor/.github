@@ -36,5 +36,21 @@ Happy DevOps Learning! 👩‍💻👨‍💻
 
 ---
 
+# Apply for DevOps Internship
+
+[Apply Now]()
+
+![flow chart](images/complete-learning-flow.drawio-5.png)
+
+[Apply Now]()
+
 ---
+
+# Be Volunteer
+
+[Volunteer Now](https://bit.ly/47RW4Ie)
+
+[![Volunteer Now](images/volunteer-hiring.jpg)](https://bit.ly/47RW4Ie)
+
+[Volunteer Now](https://bit.ly/47RW4Ie)
 
