@@ -27,28 +27,14 @@ DevOps with [Babar Zahoor](https://babarzahoor.com/), DOBZ, is a flagship initia
 
 ## 📢 Stay Connected
 
-- **Website:** [Your organization's website]
-- **Twitter:** [@YourTwitterHandle]
-- **LinkedIn:** [Your Organization LinkedIn Page]
-- **Email:** [Your Contact Email]
+- **YouTube:** [https://www.youtube.com/@babarzahoor]
+- **WhatsApp:** [https://chat.whatsapp.com/HTSM0GEPTsE54wP6CgXIjx]
+- **GitHub Discussion:** [https://github.com/orgs/DevOps-With-Babar-Zahoor/discussions]
+- **LinkedIn:** [https://www.linkedin.com/in/babarzahoordevops/]
 
-## 🙏 Support Us
+Happy DevOps Learning! 👩‍💻👨‍💻
 
-If you find our projects and initiatives valuable, consider supporting us:
+---
 
-[![Donate](link-to-donation-page)](link-to-donation-page)
-
-Your support helps us maintain and improve our open-source projects.
-
-## 📄 License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-For inquiries, reach out to [Your Contact Email].
-
-Thank you for being a part of [Your Organization Name]!
-
-Happy coding! 👩‍💻👨‍💻
+---
 
