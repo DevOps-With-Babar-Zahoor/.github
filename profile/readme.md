@@ -113,7 +113,7 @@ Open the repository, that you are working on:
 1. Fork the Repository in your own account.
 2. Repo. will contain folders of tasks, each folder with README.MD written with instructions of the task.
 
-if the solution is solved then move to the Step K, and if facing any issue, please proceed with the following instructions
+if the solution is solved then move to the Step 4 for submission for validation, and if facing any issue, please proceed with the following instructions
 
 1. Research
 
@@ -145,6 +145,7 @@ if the solution is solved then move to the Step K, and if facing any issue, plea
      1. Go to issues on https://github.com/DevOps-With-Babar-Zahoor/Linux/issues
      1. Click New Issue
      1. Paste the template with your data filled.
+     1. Click the "Submit New Issue" button.
      
   Volunteer Support will be provided and solution will be suggested on GitHub
 
@@ -153,7 +154,87 @@ if the solution is solved then move to the Step K, and if facing any issue, plea
   - In-complete information
   - Not Solved
 
+> [!CAUTION]
+> Volunteer rules for the above support request
+> if any / single conditions is met, volunteer will not provide the support. Because volunnteer is giving you his precious time for support and his time value should be acknowledged, so in this time he / she would help others, those who are following the rules prefectly.
 
+> [!TIP]
+> Volunteer Tip in **Issue Support**
+> Rules to be verified by Volunteer for support tickets:
+> - Video lenght is more than 1 minutes (strictly follow it)
+> - Mobile camera recording of screen is not acceptable.
+> - No voice message within video, explaining the issue.
+> - time wasting stories are being told in video
+> - Self research is not performed before submitting issue
+> - Hashtags are not being used
+> - Template.md is not used to submit the issue.
+> - Issue is not opened in the relevent/right topic, for example issue is about Linux and is opened in Kubernetes.
+
+
+### Step 4: Submit the work performed
+
+After completing a single task, submit it to us so the performance can be evaluated
+
+1. Screen Record the success
+   1. (Thirty) 30 seconds, only, duration maximum.
+   2. Mobile camera recording will not be accepted. (exception for Hardware tasks)
+   3. Use Mic to speak about screen and record in video.
+   4. Be precise:
+      1. Ten (10) seconds to show task
+      2. Next ten (10) seconds on approach used to solve the tasks.
+      3. And last ten (10) seconds to present solution.
+
+2. Add Water-Mark
+   1. Water Mark Text should your YouTube Channel ID (not the name):
+      1.Canva Link to make water-mark. (template is here: https://bit.ly/3UgD3vt
+      2. Sample water-mark can be used to make your video
+   2. Upload video to Canva
+   3. Set Video to background
+   4. Edit the watermark from template as mentioned above.
+   5. Download video with water-mark
+
+3. Upload task submission on your YouTube Channel
+   1. Upload you solution video to your own youtube channel
+   2. You can make any title and description.
+   3. Add following hashtags: #osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource
+
+4. Post it on LinkedIn
+   1. Create the post about the task
+   2. Be precise
+   3. For example:
+      > I have successfully completed the Task 01 during my internship at #devopswithbabarzahoor of my linux related to file system. #osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource
+   4. Publish it
+   5. Use the URL of post in git-hub submission readme.md file.
+
+5. Make Your Own GitHub Repository
+   1. Don't use the Linux forked repository in your github account.
+   2. Create a new Public Repository "Linux-\<your OSFP membership number\>" in your account.
+   3. Create same task number folder in the repository.
+   4. Add readme.md file, copy the content of template file as given here and fill it with your data in readme.md https://bit.ly/BZDevOps001
+
+6. Submission for Validation
+   1. Create an issue using the following URL https://bit.ly/BZDevOpsDone
+   2. Give a Title to the issue in the following format
+   3. Linux-Task01-\<your OSFP membership number\> in your account.
+   4. Fill the template with data.
+   5. Some data is same as of last step, so copy from your own repo's readme.md and paste here.
+   6. Click "Submit New issue".
+
+> [!CAUTION]
+> Volunteer rules for the above support request
+> if any / single conditions is met, volunteer will not provide the support. Because volunnteer is giving you his precious time for support and his time value should be acknowledged, so in this time he / she would help others, those who are following the rules prefectly.
+
+> [!TIP]
+> Volunteer Tip for **Validation**:
+> Rules to be verified by Volunteer for validation tickets:
+> - Video lenght is more than 30 seconds (strictly follow it)
+> - Mobile camera recording of screen is not acceptable.
+> - No voice message within video, explaining the success.
+> - time wasting stories are being told in video.
+> - Technical mistake are performed
+> - Hashtags are not being used while publishing.
+> - Template.md is not used to submit the issue.
+> - Issue is not opened in the relevent/right topic, for example issue is about Linux and is opened in Kubernetes.
 
 
 ---
