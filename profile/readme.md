@@ -85,8 +85,8 @@ Note: This internship is offered just for the sake of providing the candidates w
 
 Your will perform the following technological assignments. It is suggested to perform the tasks and complete your assignments in order within specific single domain and in the following order as well.
 - [Linux](https://github.com/DevOps-With-Babar-Zahoor/Linux)
-- Docker
-- Kubernetes
+- [Docker](https://github.com/DevOps-With-Babar-Zahoor/Docker)
+- [Kubernetes](https://github.com/DevOps-With-Babar-Zahoor/Kubernetes)
 
 ### Step 3: 
 
