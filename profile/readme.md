@@ -93,6 +93,7 @@ Note: This internship is offered just for the sake of providing the candidates w
 ##### **DevOps Skills being offered**
 
 Your will perform the following technological assignments. It is suggested to perform the tasks and complete your assignments in order within specific single domain and in the following order as well.
+
 - [Linux](https://github.com/DevOps-With-Babar-Zahoor/Linux)
 - [Docker](https://github.com/DevOps-With-Babar-Zahoor/Docker)
 - [Kubernetes](https://github.com/DevOps-With-Babar-Zahoor/Kubernetes)
@@ -102,6 +103,55 @@ Your will perform the following technological assignments. It is suggested to pe
 
 ### Step 3: Start the Work
 
+Open the repository, that you are working on:
+
+- [Linux](https://github.com/DevOps-With-Babar-Zahoor/Linux)
+- [Docker](https://github.com/DevOps-With-Babar-Zahoor/Docker)
+- [Kubernetes](https://github.com/DevOps-With-Babar-Zahoor/Kubernetes)
+
+#### Step A: Participate in tasks from GitHub
+1. Fork the Repository in your own account.
+2. Repo. will contain folders of tasks, each folder with README.MD written with instructions of the task.
+
+if the solution is solved then move to the Step K, and if facing any issue, please proceed with the following instructions
+
+1. Research
+
+   - Google the Error Log.
+   - Checkout askubuntu.com or relevant documentation.
+   - Find Documentation.
+   - if the solution is solved then move to the Step K, and if facing any issue, please proceed with the following instructions
+
+1. Apply Community Support Required
+
+   - Screen record the issue
+     * One ( 1 ) minutes duration maximum.
+     * Mobile camera recording will not be accepted. (exception for Hardware issue)
+     * Use mic to explain issue facing.
+     * Be precise.
+     * Don't repeat task (it is wasting 1 minutes limit and precious time of volunteer).
+     * Explain issue within 1 minute.
+     * Research results (explain in 10 seconds).
+     * Upload this issue video on your own YouTube channel with hash-tags #osfp #devops #babarzahoor #support #opensource #pakistan
+     * Get the URL of your video.
+
+   - Open GitHub.com Issue
+     1. Go to original repository.
+     https://github.com/DevOps-With-Babar-Zahoor/linux
+     1. Go to folder > Support Required
+     1. Copy the content of file "template.md"
+     1. Create a new issue, using the template above from point 3.
+     1. As this is Linux related support required
+     1. Go to issues on https://github.com/DevOps-With-Babar-Zahoor/Linux/issues
+     1. Click New Issue
+     1. Paste the template with your data filled.
+     
+  Volunteer Support will be provided and solution will be suggested on GitHub
+
+  Note that support will not be provided if any of the following is met:
+  - Rules Not Followed
+  - In-complete information
+  - Not Solved
 
 
 
