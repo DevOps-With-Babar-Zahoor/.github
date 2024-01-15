@@ -58,7 +58,8 @@ A flow chart is shown above is based on the following rules and procedures for t
 
 ### Step 1: Learn the following course work:
 
-#### Remember: GitHub is your new Friend.
+#### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
+
 
   1. [Linux, Docker & Kubernetes Bootcamp in 30 Days](https://www.youtube.com/watch?v=ctgMKhv6j7E&list=PLBiQy5tO4R2N-W-1lvnNMVAJXqqSxujXQ)
   2. [Kubernetes Bootcamp in 30 Days](https://www.youtube.com/watch?v=4Vt3RPQxD64&list=PLBiQy5tO4R2OA3_eQ4wPXchN0XtODcP8z&pp=iAQB)
@@ -70,11 +71,11 @@ A flow chart is shown above is based on the following rules and procedures for t
 
 So these 60 days are giving you enough knowledge to get hired in a job. So, move on to the next step.
 
-#### Remember: GitHub is your new Friend.
+#### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
 
 ### Step 2: Apply for OSFP Internship:
 
-#### Remember: GitHub is your new Friend.
+#### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
 
 #### Pass the assessment Exam
 - Passing socre is higher than 60%
@@ -96,7 +97,8 @@ Your will perform the following technological assignments. It is suggested to pe
 - [Docker](https://github.com/DevOps-With-Babar-Zahoor/Docker)
 - [Kubernetes](https://github.com/DevOps-With-Babar-Zahoor/Kubernetes)
 
-#### Remember: GitHub is your new Friend.
+#### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
+
 
 ### Step 3: Start the Work
 
