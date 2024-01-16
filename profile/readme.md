@@ -109,37 +109,37 @@ Open the repository, that you are working on:
 - [Docker](https://github.com/DevOps-With-Babar-Zahoor/Docker)
 - [Kubernetes](https://github.com/DevOps-With-Babar-Zahoor/Kubernetes)
 
-#### Step A: Participate in tasks from GitHub
-1. Fork the Repository in your own account.
-2. Repo. will contain folders of tasks, each folder with README.MD written with instructions of the task.
+#### Sub-Step A: Participate in tasks from GitHub
+1. Fork the Repository in your account.
+2. Repo. will contain folders of tasks, each folder with README.MD written with instructions for the task.
 
-if the solution is solved then move to the Step 4 for submission for validation, and if facing any issue, please proceed with the following instructions
+if the solution is solved then move to Step 4 for submission for validation, and if facing any issues, please proceed with the following instructions
 
-1. Research
+#### Sub-Step B: Research
 
    - Google the Error Log.
-   - Checkout askubuntu.com or relevant documentation.
+   - Check out askubuntu.com or relevant documentation.
    - Find Documentation.
-   - if the solution is solved then move to the Step K, and if facing any issue, please proceed with the following instructions
+   - if the solution is solved then move to Step 4, and if facing any issues, please proceed with the following instructions
 
-1. Apply Community Support Required
+#### Sub-Step C: Apply Community Support Required
 
    - Screen record the issue
-     * One ( 1 ) minutes duration maximum.
-     * Mobile camera recording will not be accepted. (exception for Hardware issue)
-     * Use mic to explain issue facing.
+     * One ( 1 ) minute duration maximum.
+     * Mobile camera recording will not be accepted. (except for Hardware issue)
+     * Use a mic to explain the issue facing.
      * Be precise.
-     * Don't repeat task (it is wasting 1 minutes limit and precious time of volunteer).
-     * Explain issue within 1 minute.
+     * Don't speak in repeating the task (it wastes the 1-minute limit and precious time of volunteers).
+     * Explain the issue within 1 minute.
      * Research results (explain in 10 seconds).
      * Upload this issue video on your own YouTube channel with hash-tags #osfp #devops #babarzahoor #support #opensource #pakistan
      * Get the URL of your video.
-
+ 
    - Open GitHub.com Issue
-     1. Go to original repository.
+     1. Go to the original repository.
      https://github.com/DevOps-With-Babar-Zahoor/linux
      1. Go to folder > Support Required
-     1. Copy the content of file "template.md"
+     1. Copy the content of the file "template.md"
      1. Create a new issue, using the template above from point 3.
      1. As this is Linux related support required
      1. Go to issues on https://github.com/DevOps-With-Babar-Zahoor/Linux/issues
@@ -147,7 +147,7 @@ if the solution is solved then move to the Step 4 for submission for validation,
      1. Paste the template with your data filled.
      1. Click the "Submit New Issue" button.
      
-  Volunteer Support will be provided and solution will be suggested on GitHub
+  Volunteer Support will be provided and solutions will be suggested on GitHub
 
   Note that support will not be provided if any of the following is met:
   - Rules Not Followed
@@ -156,19 +156,19 @@ if the solution is solved then move to the Step 4 for submission for validation,
 
 > [!CAUTION]
 > Volunteer rules for the above support request
-> if any / single conditions is met, volunteer will not provide the support. Because volunnteer is giving you his precious time for support and his time value should be acknowledged, so in this time he / she would help others, those who are following the rules prefectly.
+> If any / single conditions are met, the volunteer will not provide the support. Because the volunteer is giving you his precious time for support and his time value should be acknowledged, so in this time he/she would help others, those who are following the rules perfectly.
 
 > [!TIP]
 > Volunteer Tip in **Issue Support**
 > Rules to be verified by Volunteer for support tickets:
-> - Video lenght is more than 1 minutes (strictly follow it)
-> - Mobile camera recording of screen is not acceptable.
-> - No voice message within video, explaining the issue.
+> - Video length is more than 1 minute (strictly follow it)
+> - Mobile camera recording of the screen is not acceptable.
+> - No voice message within the video, explaining the issue.
 > - time wasting stories are being told in video
-> - Self research is not performed before submitting issue
+> - Self-research is not performed before submitting an issue.
 > - Hashtags are not being used
 > - Template.md is not used to submit the issue.
-> - Issue is not opened in the relevent/right topic, for example issue is about Linux and is opened in Kubernetes.
+> - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes.
 
 
 ### Step 4: Submit the work performed
@@ -177,21 +177,21 @@ After completing a single task, submit it to us so the performance can be evalua
 
 1. Screen Record the success
    1. (Thirty) 30 seconds, only, duration maximum.
-   2. Mobile camera recording will not be accepted. (exception for Hardware tasks)
-   3. Use Mic to speak about screen and record in video.
+   2. Mobile camera recording will not be accepted. (except for Hardware tasks)
+   3. Use a Mic to speak about the screen and record in video.
    4. Be precise:
       1. Ten (10) seconds to show task
       2. Next ten (10) seconds on approach used to solve the tasks.
-      3. And last ten (10) seconds to present solution.
+      3. And last ten (10) seconds to present a solution.
 
 2. Add Water-Mark
    1. Water Mark Text should your YouTube Channel ID (not the name):
-      1.Canva Link to make water-mark. (template is here: https://bit.ly/3UgD3vt
-      2. Sample water-mark can be used to make your video
+      1. Canva Link to make a watermark. (template is here: https://bit.ly/3UgD3vt
+      2. A Sample water-mark can be used to make your video
    2. Upload video to Canva
-   3. Set Video to background
-   4. Edit the watermark from template as mentioned above.
-   5. Download video with water-mark
+   3. Set the Video to the background.
+   4. Edit the watermark from the template as mentioned above.
+   5. Download the video with a watermark.
 
 3. Upload task submission on your YouTube Channel
    1. Upload you solution video to your own youtube channel
@@ -235,6 +235,8 @@ After completing a single task, submit it to us so the performance can be evalua
 > - Hashtags are not being used while publishing.
 > - Template.md is not used to submit the issue.
 > - Issue is not opened in the relevent/right topic, for example issue is about Linux and is opened in Kubernetes.
+
+### Step 5: Create a Pull Request
 
 
 ---
