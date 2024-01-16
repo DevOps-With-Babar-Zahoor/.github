@@ -132,7 +132,10 @@ if the solution is solved then move to Step 4 for submission for validation, and
      * Don't speak in repeating the task (it wastes the 1-minute limit and precious time of volunteers).
      * Explain the issue within 1 minute.
      * Research results (explain in 10 seconds).
-     * Upload this issue video on your own YouTube channel with hash-tags #osfp #devops #babarzahoor #support #opensource #pakistan
+     * Upload this issue video on your own YouTube channel with hash-tags
+       ```console
+       #osfp #devops #babarzahoor #support #opensource #pakistan
+       ```
      * Get the URL of your video.
  
    - Open GitHub.com Issue 
@@ -202,7 +205,10 @@ After completing a single task, submit it to us so the performance can be evalua
    1. Create a post about the task
    2. Be precise
    3. For example:
-      > I have completed Task 01 during my internship at #devopswithbabarzahoor of my Linux related to file system. #osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource
+      > I have completed Task 01 during my internship at #devopswithbabarzahoor of my Linux related to file system.
+      ```console
+      #osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource
+      ```
    4. Publish it
    5. Use the URL of the post in the GitHub submission readme.md file.
 
