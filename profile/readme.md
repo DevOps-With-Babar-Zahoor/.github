@@ -245,7 +245,11 @@ After completing a single task, submit it to us so the performance can be evalua
 
 [Volunteer Now](https://bit.ly/47RW4Ie)
 
-[![Volunteer Now](https://raw.githubusercontent.com/DevOps-With-Babar-Zahoor/.github/main/profile/images/volunteer-hiring.jpg)](https://bit.ly/47RW4Ie)
+<p align="center">
+  <a href="https://bit.ly/47RW4Ie">
+    <img src="https://raw.githubusercontent.com/DevOps-With-Babar-Zahoor/.github/main/profile/images/volunteer-hiring.jpg" alt="Apply for Volunteer" width="300" height="300">
+  </a>
+</p>
 
 [Volunteer Now](https://bit.ly/47RW4Ie)
 
