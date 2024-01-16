@@ -101,7 +101,7 @@ Your will perform the following technological assignments. It is suggested to pe
 #### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
 
 
-### Step 3: Start the Work 💻
+### Step 3: 💻 Start the Work 
 
 Open the repository, that you are working on:
 
@@ -115,16 +115,16 @@ Open the repository, that you are working on:
 
 if the solution is solved then move to Step 4 for submission for validation, and if facing any issues, please proceed with the following instructions
 
-#### Sub-Step B: Research 🕵️‍♂️
+#### Sub-Step B: 🕵️‍♂️ Research 
 
    - Google the Error Log.
    - Check out askubuntu.com or relevant documentation.
    - Find Documentation.
    - if the solution is solved then move to Step 4, and if facing any issues, please proceed with the following instructions
 
-#### Sub-Step C: Apply Community Support Required 🤝
+#### Sub-Step C: 🤝 Apply Community Support Required 
 
-   - Screen record the issue 🎥
+   - 🎥 Screen record the issue 
      * One ( 1 ) minute duration maximum.
      * Mobile camera recording will not be accepted. (except for Hardware issue)
      * Use a mic to explain the issue facing.
@@ -174,11 +174,11 @@ if the solution is solved then move to Step 4 for submission for validation, and
 > - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes.
 
 
-### Step 4: Submit the work performed 🚀
+### Step 4: 🚀 Submit the work performed 
 
 After completing a single task, submit it to us so the performance can be evaluated
 
-1. Screen Record the success 🎬
+1. 🎬 Screen Record the success 
    1. (Thirty) 30 seconds, only, duration maximum.
    2. Mobile camera recording will not be accepted. (except for Hardware tasks)
    3. Use a Mic to speak about the screen and record in video.
@@ -187,7 +187,7 @@ After completing a single task, submit it to us so the performance can be evalua
       2. Next ten (10) seconds on approach used to solve the tasks.
       3. And last ten (10) seconds to present a solution.
 
-2. Add Water-Mark 💧
+2. 💧 Add Water-Mark 
    1. Water Mark Text should your YouTube Channel ID (not the name):
       1. Canva Link to make a watermark. (template is here: https://bit.ly/3UgD3vt
       2. A Sample water-mark can be used to make your video
@@ -196,12 +196,12 @@ After completing a single task, submit it to us so the performance can be evalua
    4. Edit the watermark from the template as mentioned above.
    5. Download the video with a watermark.
 
-3. Upload task submission on your YouTube Channel 📹
+3. 📹 Upload task submission on your YouTube Channel 
    1. Upload your solution video to your YouTube channel
    2. You can make any title and description.
    3. Add following hashtags: #osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource
 
-4. Post it on LinkedIn 📢
+4. 📢 Post it on LinkedIn 
    1. Create a post about the task
    2. Be precise
    3. For example:
@@ -212,13 +212,13 @@ After completing a single task, submit it to us so the performance can be evalua
    4. Publish it
    5. Use the URL of the post in the GitHub submission readme.md file.
 
-5. Make Your GitHub Repository 📂
+5. 📂 Make Your GitHub Repository 
    1. Don't use the Linux forked repository in your GitHub account.
    2. Create a new Public Repository "Linux-\<your OSFP membership number\>" in your account.
    3. Create the same task number folder in the repository.
    4. Add readme.md file, copy the content of the template file as given here and fill it with your data in readme.md https://bit.ly/BZDevOps001
 
-6. Submission for Validation 📤
+6. 📤 Submission for Validation 
    1. Create an issue using the following URL https://bit.ly/BZDevOpsDone
    2. Give a Title to the issue in the following format
       > Linux-Task01-\<your OSFP membership number\> in your account.
@@ -242,7 +242,75 @@ After completing a single task, submit it to us so the performance can be evalua
 > - Template.md is not used to submit the issue.
 > - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes.
 
-### Step 5: Create a Pull Request 🛠️
+### Step 5: 🛠️ Create a Pull Request 
+
+#### Process for Interns
+
+##### 1. 🍴 Forking the Repository
+
+1. Fork this repository to your own GitHub account using the "Fork" button in the top right corner of this page.
+
+##### 2. 🚀 Cloning the Forked Repository Locally
+
+1. Clone your forked repository to your local machine or open in **codespace**:
+
+   ```bash
+   # if you are not using codespace then follow as following, if codespace is being using then skip this step and go to step 3.
+   git clone https://github.com/your-username/certification.git
+   cd certification
+   ```
+
+##### 3. 📁 Creating a Folder with Membership ID
+
+1. Inside the `internees` directory, create a folder with your membership ID:
+
+   ```bash
+   mkdir internees/<your membership ID>
+   # For example your membership id is DOBZ000001 then run the following command
+   # mkdir internees/DOBZ00001
+   ```
+
+##### 4. 📝 Adding Files and Making Changes
+
+1. Add any necessary files, documents, or code related to your certification inside your folder.
+2. For example: as the task 01 of the linux exercise is completed, then create a file Linux.md and if already exists (if your had already completed some tasks and this file is already creadted then just edit.
+   > add your completed tasks' closed issue URL from [Internee-Tasks-Validataion](https://github.com/DevOps-With-Babar-Zahoor/Internee-Tasks-Validataion), and keep adding lines. After every line addition, create a pull request be following the procedure below. And make sure all completed, validated and closed issue tasks are present in the list.
+
+##### 5. 💼 Committing and Pushing Changes (after every task completion)
+
+1. Commit your changes and push them to your forked repository:
+
+   ```bash
+   git add .
+   git commit -m "Add files for certification"
+   git push origin main
+   ```
+
+##### 6. 🔄 Creating a Pull Request
+
+1. Go to your forked repository on GitHub.
+2. Click on the "New pull request" button.
+3. Ensure that the base repository is set to the main certification repository.
+4. Create the pull request.
+
+##### 7. ✔️ Approval and Merge
+
+1. The repository owner will review your pull request.
+2. If everything looks good, they will approve and merge your changes into the main repository.
+
+##### 8. 🔄 Keeping Your Fork Updated
+
+1. To keep your forked repository up-to-date with changes from the main repository:
+
+   ```bash
+   git fetch upstream
+   git merge upstream/main
+   git push origin main
+   ```
+
+Replace "upstream" with the alias for the main repository.
+
+Thank you for contributing to our certification process!
 
 
 ---
