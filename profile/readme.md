@@ -312,6 +312,26 @@ Replace "upstream" with the alias for the main repository.
 
 Thank you for contributing to our certification process!
 
+---
+
+## Volunteer's Task Validation Steps 🛠️🔍
+- Sign-In to your GitHub.com ✅
+- Open the URL: https://github.com/orgs/DevOps-With-Babar-Zahoor/projects/2/views/6 🌐
+- Open the assigned issue 📄
+- Check the submitted URL of readme.md (only click if the URL is from domain https://github.com/) ⚠️
+  * Please don't click if the URL domain is not github.com (that could be unsafe URL) ❌
+- Reject if the following happens:
+  - Video length is more than 30 seconds (strictly follow it) ⏱️
+  - Mobile camera recording of the screen is not acceptable 🚫📱
+  - No voice message within the video, explaining the success 🔊❌
+  - Time-wasting stories are being told in the video ⏳🗣️
+  - Technical mistakes are performed ❌🤔
+  - Hashtags are not being used while publishing #️⃣❌
+  - Template.md is not used to submit the issue 📝❌
+  - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes ❌🔄
+- Evaluate technically based on your experience 💻
+- If need some further question, add some comments, and do a "Request for Information" 🗣️❓
+- If all is completed, write OK in comments and close the issue ✅👌
 
 ---
 
