@@ -101,13 +101,13 @@ Your will perform the following technological assignments. It is suggested to pe
 #### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
 
 
-### Step 3: Start the Work
+### Step 3: Start the Work 💻
 
 Open the repository, that you are working on:
 
-- [Linux](https://github.com/DevOps-With-Babar-Zahoor/Linux)
-- [Docker](https://github.com/DevOps-With-Babar-Zahoor/Docker)
-- [Kubernetes](https://github.com/DevOps-With-Babar-Zahoor/Kubernetes)
+- [Linux](https://github.com/DevOps-With-Babar-Zahoor/Linux) 🐧
+- [Docker](https://github.com/DevOps-With-Babar-Zahoor/Docker) 🐳
+- [Kubernetes](https://github.com/DevOps-With-Babar-Zahoor/Kubernetes) ☸️
 
 #### Sub-Step A: Participate in tasks from GitHub
 1. Fork the Repository in your account.
@@ -115,16 +115,16 @@ Open the repository, that you are working on:
 
 if the solution is solved then move to Step 4 for submission for validation, and if facing any issues, please proceed with the following instructions
 
-#### Sub-Step B: Research
+#### Sub-Step B: Research 🕵️‍♂️
 
    - Google the Error Log.
    - Check out askubuntu.com or relevant documentation.
    - Find Documentation.
    - if the solution is solved then move to Step 4, and if facing any issues, please proceed with the following instructions
 
-#### Sub-Step C: Apply Community Support Required
+#### Sub-Step C: Apply Community Support Required 🤝
 
-   - Screen record the issue
+   - Screen record the issue 🎥
      * One ( 1 ) minute duration maximum.
      * Mobile camera recording will not be accepted. (except for Hardware issue)
      * Use a mic to explain the issue facing.
@@ -135,7 +135,7 @@ if the solution is solved then move to Step 4 for submission for validation, and
      * Upload this issue video on your own YouTube channel with hash-tags #osfp #devops #babarzahoor #support #opensource #pakistan
      * Get the URL of your video.
  
-   - Open GitHub.com Issue
+   - Open GitHub.com Issue 
      1. Go to the original repository.
      https://github.com/DevOps-With-Babar-Zahoor/linux
      1. Go to folder > Support Required
@@ -171,11 +171,11 @@ if the solution is solved then move to Step 4 for submission for validation, and
 > - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes.
 
 
-### Step 4: Submit the work performed
+### Step 4: Submit the work performed 🚀
 
 After completing a single task, submit it to us so the performance can be evaluated
 
-1. Screen Record the success
+1. Screen Record the success 🎬
    1. (Thirty) 30 seconds, only, duration maximum.
    2. Mobile camera recording will not be accepted. (except for Hardware tasks)
    3. Use a Mic to speak about the screen and record in video.
@@ -184,7 +184,7 @@ After completing a single task, submit it to us so the performance can be evalua
       2. Next ten (10) seconds on approach used to solve the tasks.
       3. And last ten (10) seconds to present a solution.
 
-2. Add Water-Mark
+2. Add Water-Mark 💧
    1. Water Mark Text should your YouTube Channel ID (not the name):
       1. Canva Link to make a watermark. (template is here: https://bit.ly/3UgD3vt
       2. A Sample water-mark can be used to make your video
@@ -193,12 +193,12 @@ After completing a single task, submit it to us so the performance can be evalua
    4. Edit the watermark from the template as mentioned above.
    5. Download the video with a watermark.
 
-3. Upload task submission on your YouTube Channel
+3. Upload task submission on your YouTube Channel 📹
    1. Upload your solution video to your YouTube channel
    2. You can make any title and description.
    3. Add following hashtags: #osfp #babarzahoor #devops #linux #kubernetes #openshift #pakistan #opensource
 
-4. Post it on LinkedIn
+4. Post it on LinkedIn 📢
    1. Create a post about the task
    2. Be precise
    3. For example:
@@ -206,19 +206,19 @@ After completing a single task, submit it to us so the performance can be evalua
    4. Publish it
    5. Use the URL of the post in the GitHub submission readme.md file.
 
-5. Make Your GitHub Repository
+5. Make Your GitHub Repository 📂
    1. Don't use the Linux forked repository in your GitHub account.
    2. Create a new Public Repository "Linux-\<your OSFP membership number\>" in your account.
    3. Create the same task number folder in the repository.
    4. Add readme.md file, copy the content of the template file as given here and fill it with your data in readme.md https://bit.ly/BZDevOps001
 
-6. Submission for Validation
+6. Submission for Validation 📤
    1. Create an issue using the following URL https://bit.ly/BZDevOpsDone
    2. Give a Title to the issue in the following format
-   3. Linux-Task01-\<your OSFP membership number\> in your account.
-   4. Fill the template with data.
-   5. Some data is the same as in the last step, so copy from your own repo's readme.md and paste it here.
-   6. Click "Submit New issue".
+      > Linux-Task01-\<your OSFP membership number\> in your account.
+   3. Fill the template with data.
+   4. Some data is the same as in the last step, so copy from your own repo's readme.md and paste it here.
+   5. Click "Submit New issue".
 
 > [!CAUTION]
 > Volunteer rules for the above support request
@@ -236,7 +236,7 @@ After completing a single task, submit it to us so the performance can be evalua
 > - Template.md is not used to submit the issue.
 > - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes.
 
-### Step 5: Create a Pull Request
+### Step 5: Create a Pull Request 🛠️
 
 
 ---
