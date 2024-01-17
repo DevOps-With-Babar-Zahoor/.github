@@ -52,6 +52,23 @@ Happy DevOps Learning! 👩‍💻👨‍💻
 # Internship Program Procedures and Rules
 A flow chart is shown above is based on the following rules and procedures for this internship program to achieve successful certificate of internship. 
 
+## Before Apply
+### Get the following accounts (not required if you have all 5 accounts):
+
+- Gmail Account (or Google Workspace) - Free [Get it now](https://accounts.google.com/signup?continue=https://mail.google.com/mail/)
+- GitHub (Free)  [Get it now](https://github.com/signup)
+- LinkedIn (Free)  [Get it now](https://linkedin.com/signup)
+- YouTube Channel (Free) [Get it now](https://studio.youtube.com)
+- Canva (Free) [Get it now](https://www.canva.com/signup/)
+
+### Optional Accounts:
+
+- Slack [Join](https://devopswithbabarzahoor.slack.com)
+- A Domain Name to Buy [Buy Now](https://namecheap.com)
+
+
+
+
 ## How to be a DevOps Engineer?
 - How to start learning ?
 - Where to learn ?
