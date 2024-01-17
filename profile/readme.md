@@ -142,12 +142,11 @@ if the solution is solved then move to Step 4 for submission for validation, and
      1. Go to the original repository.
      https://github.com/DevOps-With-Babar-Zahoor/linux
      1. Go to folder > Support Required
-     1. Copy the content of the file "template.md"
-     1. Create a new issue, using the template above from point 3.
+     1. Create a new issue, using already set template.
      1. As this is Linux related support required
      1. Go to issues on https://github.com/DevOps-With-Babar-Zahoor/Linux/issues
      1. Click New Issue
-     1. Paste the template with your data filled.
+     1. Fill the template for the issue.
      1. Click the "Submit New Issue" button.
      
   Volunteer Support will be provided and solutions will be suggested on GitHub
@@ -367,6 +366,7 @@ Thank you for contributing to our certification process!
 - Evaluate technically based on your experience 💻
 - If need some further question, add some comments, and do a "Request for Information" 🗣️❓
 - If all is completed, write OK in comments and close the issue ✅👌
+
 
 ---
 
