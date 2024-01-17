@@ -321,14 +321,20 @@ Thank you for contributing to our certification process!
 - Check the submitted URL of readme.md (only click if the URL is from domain https://github.com/) ⚠️
   * Please don't click if the URL domain is not github.com (that could be unsafe URL) ❌
 - Reject if the following happens:
-  - Video length is more than 30 seconds (strictly follow it) ⏱️
-  - Mobile camera recording of the screen is not acceptable 🚫📱
-  - No voice message within the video, explaining the success 🔊❌
-  - Time-wasting stories are being told in the video ⏳🗣️
-  - Technical mistakes are performed ❌🤔
-  - Hashtags are not being used while publishing #️⃣❌
-  - Template.md is not used to submit the issue 📝❌
-  - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes ❌🔄
+  1. Video length is more than 30 seconds (strictly follow it) ⏱️
+  1. Mobile camera recording of the screen is not acceptable 🚫📱
+  1. Watermark is not used (as same as of YouTube channel ID)
+  1. No voice message within the video, explaining the success 🔊❌
+     1. Time-wasting stories are being told in the video ⏳🗣️
+  1. Three (3) URLs are submitted: ❌🔗
+     1. Internee's repository README.MD file URL where the solution is wrote. ❌🔗
+     1. YouTube uploaded video URL ❌🔗
+     1. LinkedIn Post URL ❌🔗
+  1. Title of the issue is not writtend as of the format. ❌📝
+  1. Technical mistakes are performed ❌🤔
+  1. Hashtags are not being used while publishing #️⃣❌
+  1. Template.md is not used to submit the issue 📝❌
+  1. The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes ❌🔄
 - Evaluate technically based on your experience 💻
 - If need some further question, add some comments, and do a "Request for Information" 🗣️❓
 - If all is completed, write OK in comments and close the issue ✅👌
