@@ -382,7 +382,7 @@ Thank you for contributing to our certification process!
 
 ---
 
-## ✅ Volunteer's Task Validation Steps 📝
+## ✅ Volunteer's Task Validation Steps and Rules📝
 - Sign-In to your GitHub.com ✅
 - Open the URL: https://github.com/orgs/DevOps-With-Babar-Zahoor/projects/2/views/6 🌐
 - Open the assigned issue 📄
