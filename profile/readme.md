@@ -13,10 +13,11 @@ Welcome to the official GitHub repository of DevOps with Babar Zahoor! 🚀
 3. [✨ Apply for DevOps Internship](#-apply-for-devops-internship)
 4. [📜 Internship Program Procedures and Rules](#-internship-program-procedures-and-rules-)
    1. [⚠️ Before Apply](#%EF%B8%8F-before-apply)
-   2. [🤖 How to be a DevOps Engineer? - **Free of Cost**](#-how-to-be-a-devops-engineer)
+   2. [🤖 How to be a DevOps Engineer? - **Free of Cost**](#-how-to-be-a-certified-devops-engineer---free-of-cost)
       1. [🎓 Step 1: Learn the following course work](#-step-1-learn-the-following-course-work)
       2. [📝 Step 2: Apply for OSFP Internship](#-step-2-apply-for-osfp-internship)
-      3. 
+      3. [💻 Step 3: Start the Work](#step-3--start-the-work)
+      4. [🚀 Step 4: Submit the work performed](#step-4--submit-the-work-performed)
 
 
 
@@ -102,7 +103,8 @@ A flow chart is shown above is based on the following rules and procedures for t
   2. [Kubernetes Bootcamp in 30 Days](https://www.youtube.com/watch?v=4Vt3RPQxD64&list=PLBiQy5tO4R2OA3_eQ4wPXchN0XtODcP8z&pp=iAQB)
 
 
-  >[cation] Daily Learning Time required: 3 hours
+  > [!IMPORTANT]
+  > Daily Learning Time required: 3 hours
   > - 1 Hour Video
   > - 2 Hours Practice and Follow Along 
 
