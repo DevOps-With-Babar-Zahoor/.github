@@ -16,8 +16,9 @@ Welcome to the official GitHub repository of DevOps with Babar Zahoor! 🚀
    2. [🤖 How to be a DevOps Engineer? - **Free of Cost**](#-how-to-be-a-certified-devops-engineer---free-of-cost)
       1. [🎓 Step 1: Learn the following course work](#-step-1-learn-the-following-course-work)
       2. [📝 Step 2: Apply for OSFP Internship](#-step-2-apply-for-osfp-internship)
-      3. [💻 Step 3: Start the Work](#step-3--start-the-work)
-      4. [🚀 Step 4: Submit the work performed](#step-4--submit-the-work-performed)
+      3. [💻 Step 3: Perform The Task(s)](#step-3--start-the-work)
+      4. [📤 Step 4: Submit the Task(s) Performed](#step-4--submit-the-work-performed)
+      5. [🛠️ Step 5: Get Certified - Create a Pull Request]
 
 
 
@@ -140,7 +141,7 @@ Your will perform the following technological assignments. It is suggested to pe
 #### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
 
 
-### Step 3: 💻 Start the Work 
+### 💻 Step 3: Perform The Task(s)
 
 Open the repository, that you are working on:
 
@@ -212,7 +213,7 @@ if the solution is solved then move to Step 4 for submission for validation, and
 > - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes.
 
 
-### Step 4: 🚀 Submit the work performed 
+### 📤 Step 4: Submit the Task(s) Performed
 
 After completing a single task, submit it to us so the performance can be evaluated
 
@@ -280,7 +281,7 @@ After completing a single task, submit it to us so the performance can be evalua
 > - Template.md is not used to submit the issue.
 > - The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes.
 
-### Step 5: 🛠️ Create a Pull Request 
+### 🛠️ Step 5: Get Certified - Create a Pull Request
 
 #### Process for Interns
 
@@ -353,7 +354,7 @@ Thank you for contributing to our certification process!
 
 ---
 
-## Volunteer's Support Providing Steps 🛠️🔍
+## 🤝 Volunteer's Support Providing Steps and Rules 📋
 - Sign-In to your GitHub.com ✅
 - Open the URL: [View](https://github.com/orgs/DevOps-With-Babar-Zahoor/projects/3/views/5?filterQuery=status%3A%22In+Progress%22) 🌐
 - Open the tasks (GitHub Issues) one by one 📄
@@ -381,7 +382,7 @@ Thank you for contributing to our certification process!
 
 ---
 
-## Volunteer's Task Validation Steps 🛠️🔍
+## ✅ Volunteer's Task Validation Steps 📝
 - Sign-In to your GitHub.com ✅
 - Open the URL: https://github.com/orgs/DevOps-With-Babar-Zahoor/projects/2/views/6 🌐
 - Open the assigned issue 📄
@@ -409,9 +410,9 @@ Thank you for contributing to our certification process!
 
 ---
 
-# Be Volunteer
+# 🌟 Be a Volunteer 🤝
 
-[Volunteer Now](https://bit.ly/47RW4Ie)
+[🤝 Volunteer Now](https://bit.ly/47RW4Ie)
 
 <p align="center">
   <a href="https://bit.ly/47RW4Ie">
@@ -419,5 +420,5 @@ Thank you for contributing to our certification process!
   </a>
 </p>
 
-[Volunteer Now](https://bit.ly/47RW4Ie)
+[🤝 Volunteer Now](https://bit.ly/47RW4Ie)
 
