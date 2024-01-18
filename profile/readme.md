@@ -5,9 +5,18 @@ Welcome to the official GitHub repository of DevOps with Babar Zahoor! 🚀
 
 # Table of Contents
 
-1. [About Us](#-about-us)
-1. [What We Do](#-what-we-do)
-3. 
+1. [🌐 About Us](#-about-us)
+1. [📚 What We Do](#-what-we-do)
+   1. [Offering Internship Program for DevOps Learners](#offering-internship-program-for-devops-learners)
+1. [🚀 Get Involved](#-get-involved)
+2. [📢 Stay Connected](#-stay-connected)
+3. [✨ Apply for DevOps Internship](#apply-for-devops-internship)
+4. [📜 Internship Program Procedures and Rules](#internship-program-procedures-and-rules)
+   1. [⚠️ Before Apply](#before-apply)
+   2. [🤖 How to be a DevOps Engineer? - **Free of Cost**](#how-to-be-a-devops-engineer)
+      1. [🎓 Step 1: Learn the following course work](#step-1-learn-the-following-course-work)
+      2. [📝 Step 2: Apply for OSFP Internship](#step-2-apply-for-osfp-internship)
+      3. 
 
 
 
@@ -47,7 +56,7 @@ Happy DevOps Learning! 👩‍💻👨‍💻
 
 ---
 
-# Apply for DevOps Internship
+# ✨ Apply for DevOps Internship
 
 [Apply Now](https://forms.gle/uLGHfcvXZWG9LARK9)
 
@@ -60,11 +69,11 @@ Happy DevOps Learning! 👩‍💻👨‍💻
 [Apply Now](https://forms.gle/uLGHfcvXZWG9LARK9)
 
 ---
-# Internship Program Procedures and Rules
+# 📜 Internship Program Procedures and Rules 📌
 A flow chart is shown above is based on the following rules and procedures for this internship program to achieve successful certificate of internship. 
 
-## Before Apply
-### Get the following accounts (not required if you have all 5 accounts):
+## ⚠️ Before Apply
+### 🔒 Get the following accounts (not required if you have all 5 accounts):
 
 - Gmail Account (or Google Workspace) - Free [Get it now](https://accounts.google.com/signup?continue=https://mail.google.com/mail/)
 - GitHub (Free)  [Get it now](https://github.com/signup)
@@ -72,7 +81,7 @@ A flow chart is shown above is based on the following rules and procedures for t
 - YouTube Channel (Free) [Get it now](https://studio.youtube.com)
 - Canva (Free) [Get it now](https://www.canva.com/signup/)
 
-### Optional Accounts:
+### 🔍 Optional Accounts:
 
 - Slack [Join](https://devopswithbabarzahoor.slack.com)
 - A Domain Name to Buy [Buy Now](https://namecheap.com)
@@ -80,11 +89,11 @@ A flow chart is shown above is based on the following rules and procedures for t
 
 
 
-## How to be a DevOps Engineer?
+## 🤖 How to be a Certified DevOps Engineer - **Free of Cost**?
 - How to start learning ?
 - Where to learn ?
 
-### Step 1: Learn the following course work:
+### 🎓 Step 1: Learn the following course work:
 
 #### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
 
@@ -93,15 +102,15 @@ A flow chart is shown above is based on the following rules and procedures for t
   2. [Kubernetes Bootcamp in 30 Days](https://www.youtube.com/watch?v=4Vt3RPQxD64&list=PLBiQy5tO4R2OA3_eQ4wPXchN0XtODcP8z&pp=iAQB)
 
 
-  - Daily Learning Time required: 3 hours
-    - 1 Hour Video
-    - 2 Hours Practice and Follow Along 
+  >[cation] Daily Learning Time required: 3 hours
+  > - 1 Hour Video
+  > - 2 Hours Practice and Follow Along 
 
 So these 60 days are giving you enough knowledge to get hired in a job. So, move on to the next step.
 
 #### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
 
-### Step 2: Apply for OSFP Internship:
+### 📝 Step 2: Apply for OSFP Internship:
 
 #### 🤔 Remember: GitHub <img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="16" height="16"> is your new Friend.
 
