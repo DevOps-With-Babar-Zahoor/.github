@@ -2,6 +2,17 @@
 
 Welcome to the official GitHub repository of DevOps with Babar Zahoor! 🚀
 
+
+# Table of Contents
+
+1. [About Us](#-about-us)
+1. [What We Do](#-what-we-do)
+3. 
+
+
+
+
+
 ## 🌐 About Us
 
 DevOps with [Babar Zahoor](https://babarzahoor.com/), DOBZ, is a flagship initiative of the [Open Source Foundation of Pakistan (OSPF)](https://osfp.org.pk/). At DOBZ, we are dedicated to empowering DevOps enthusiasts with comprehensive training in high-end DevOps tools. Our mission is to equip learners to achieve a monthly income of at least $1,000, all from the comfort of remote locations.
@@ -268,10 +279,10 @@ After completing a single task, submit it to us so the performance can be evalua
 
 ##### 2. 🚀 Cloning the Forked Repository Locally
 
-1. Clone your forked repository to your local machine or open in **codespace**:
+1. Clone your forked repository to your local machine or open it in **codespace**:
 
    ```bash
-   # if you are not using codespace then follow as following, if codespace is being using then skip this step and go to step 3.
+   # If you are not using codespace then follow as follows, if codespace is being used then skip this step and go to step 3.
    git clone https://github.com/your-username/certification.git
    cd certification
    ```
@@ -289,8 +300,8 @@ After completing a single task, submit it to us so the performance can be evalua
 ##### 4. 📝 Adding Files and Making Changes
 
 1. Add any necessary files, documents, or code related to your certification inside your folder.
-2. For example: as the task 01 of the linux exercise is completed, then create a file Linux.md and if already exists (if your had already completed some tasks and this file is already creadted then just edit.
-   > add your completed tasks' closed issue URL from [Internee-Tasks-Validataion](https://github.com/DevOps-With-Babar-Zahoor/Internee-Tasks-Validataion), and keep adding lines. After every line addition, create a pull request be following the procedure below. And make sure all completed, validated and closed issue tasks are present in the list.
+2. For example: as task 01 of the Linux exercise is completed, then create a file Linux.md and if already exists (if you had already completed some tasks and this file is already created then just edit.
+   > add your completed tasks' closed issue URL from [Internee-Tasks-Validataion](https://github.com/DevOps-With-Babar-Zahoor/Internee-Tasks-Validataion), and keep adding lines. After every line addition, create a pull request by following the procedure below. And make sure all completed, validated and closed issue tasks are present in the list.
 
 ##### 5. 💼 Committing and Pushing Changes (after every task completion)
 
@@ -335,8 +346,8 @@ Thank you for contributing to our certification process!
 - Sign-In to your GitHub.com ✅
 - Open the URL: [View](https://github.com/orgs/DevOps-With-Babar-Zahoor/projects/3/views/5?filterQuery=status%3A%22In+Progress%22) 🌐
 - Open the tasks (GitHub Issues) one by one 📄
-- Check the submitted URL of readme.md (only click if the URL is from domain https://github.com/) ⚠️
-  * Please don't click if the URL domain is not github.com (that could be unsafe URL) ❌
+- Check the submitted URL of the readme.md (only click if the URL is from domain https://github.com/) ⚠️
+  * Please don't click if the URL domain is not github.com (that could be an unsafe URL) ❌
 - Reject if the following happens:
   1. Video length is more than 1 minute (strictly follow it) ⏱️
   1. Mobile camera recording of the screen is not acceptable 🚫📱
@@ -348,11 +359,11 @@ Thank you for contributing to our certification process!
   1. Research Results are not there. ❌🔍
   1. Hashtags are not being used while publishing #️⃣❌
   1. Template.md is not used to submit the issue 📝❌
-     1. OSFP Membershipt number is not written
-     2. Name is not written.
+     1. OSFP Membership number is not written
+     2. The name is not written.
   1. The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes ❌🔄
 - Evaluate technically based on your experience 💻
-- If need some further question, add some comments, and do a "Request for Information" 🗣️❓
+- If need some further questions, add some comments, and do a "Request for Information" 🗣️❓
 - If all is completed, write OK in comments and close the issue ✅👌
 
 
@@ -363,8 +374,8 @@ Thank you for contributing to our certification process!
 - Sign-In to your GitHub.com ✅
 - Open the URL: https://github.com/orgs/DevOps-With-Babar-Zahoor/projects/2/views/6 🌐
 - Open the assigned issue 📄
-- Check the submitted URL of readme.md (only click if the URL is from domain https://github.com/) ⚠️
-  * Please don't click if the URL domain is not github.com (that could be unsafe URL) ❌
+- Check the submitted URL of the readme.md (only click if the URL is from domain https://github.com/) ⚠️
+  * Please don't click if the URL domain is not github.com (that could be an unsafe URL) ❌
 - Reject if the following happens:
   1. Video length is more than 30 seconds (strictly follow it) ⏱️
   1. Mobile camera recording of the screen is not acceptable 🚫📱
@@ -372,16 +383,16 @@ Thank you for contributing to our certification process!
   1. No voice message within the video, explaining the success 🔊❌
      1. Time-wasting stories are being told in the video ⏳🗣️
   1. Three (3) URLs are submitted: ❌🔗
-     1. Internee's repository README.MD file URL where the solution is wrote. ❌🔗
+     1. Internee's repository README.MD file URL where the solution is written. ❌🔗
      1. YouTube uploaded video URL ❌🔗
      1. LinkedIn Post URL ❌🔗
-  1. Title of the issue is not writtend as of the format. ❌📝
+  1. The title of the issue is not written in the format that it is required to be submitted. ❌📝
   1. Technical mistakes are performed ❌🤔
   1. Hashtags are not being used while publishing #️⃣❌
   1. Template.md is not used to submit the issue 📝❌
   1. The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes ❌🔄
 - Evaluate technically based on your experience 💻
-- If need some further question, add some comments, and do a "Request for Information" 🗣️❓
+- If need some further questions, add some comments, and do a "Request for Information" 🗣️❓
 - If all is completed, write OK in comments and close the issue ✅👌
 
 
