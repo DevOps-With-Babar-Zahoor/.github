@@ -10,12 +10,12 @@ Welcome to the official GitHub repository of DevOps with Babar Zahoor! 🚀
    1. [Offering Internship Program for DevOps Learners](#offering-internship-program-for-devops-learners)
 1. [🚀 Get Involved](#-get-involved)
 2. [📢 Stay Connected](#-stay-connected)
-3. [✨ Apply for DevOps Internship](#apply-for-devops-internship)
-4. [📜 Internship Program Procedures and Rules](#internship-program-procedures-and-rules)
-   1. [⚠️ Before Apply](#before-apply)
-   2. [🤖 How to be a DevOps Engineer? - **Free of Cost**](#how-to-be-a-devops-engineer)
-      1. [🎓 Step 1: Learn the following course work](#step-1-learn-the-following-course-work)
-      2. [📝 Step 2: Apply for OSFP Internship](#step-2-apply-for-osfp-internship)
+3. [✨ Apply for DevOps Internship](#-apply-for-devops-internship)
+4. [📜 Internship Program Procedures and Rules](#-internship-program-procedures-and-rules)
+   1. [⚠️ Before Apply](#-before-apply)
+   2. [🤖 How to be a DevOps Engineer? - **Free of Cost**](#-how-to-be-a-devops-engineer)
+      1. [🎓 Step 1: Learn the following course work](#-step-1-learn-the-following-course-work)
+      2. [📝 Step 2: Apply for OSFP Internship](#-step-2-apply-for-osfp-internship)
       3. 
 
 
