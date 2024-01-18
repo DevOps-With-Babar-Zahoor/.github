@@ -16,9 +16,12 @@ Welcome to the official GitHub repository of DevOps with Babar Zahoor! 🚀
    2. [🤖 How to be a DevOps Engineer? - **Free of Cost**](#-how-to-be-a-certified-devops-engineer---free-of-cost)
       1. [🎓 Step 1: Learn the following course work](#-step-1-learn-the-following-course-work)
       2. [📝 Step 2: Apply for OSFP Internship](#-step-2-apply-for-osfp-internship)
-      3. [💻 Step 3: Perform The Task(s)](#step-3--start-the-work)
-      4. [📤 Step 4: Submit the Task(s) Performed](#step-4--submit-the-work-performed)
-      5. [🛠️ Step 5: Get Certified - Create a Pull Request]
+      3. [💻 Step 3: Perform The Task(s)](#-step-3-perform-the-tasks)
+      4. [📤 Step 4: Submit the Task(s) Performed](#-step-4-submit-the-tasks-performed)
+      5. [🛠️ Step 5: Get Certified - Create a Pull Request](#%EF%B8%8F-step-5-get-certified---create-a-pull-request)
+1. [🤝 Volunteer's Support Providing Steps and Rules 📋](#-volunteers-support-providing-steps-and-rules-)
+2. [✅ Volunteer's Task Validation Steps and Rules📝](#-volunteers-task-validation-steps-and-rules)
+3. [🌟 Be a Volunteer 🤝](#-be-a-volunteer-)
 
 
 
