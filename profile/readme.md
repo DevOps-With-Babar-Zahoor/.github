@@ -69,7 +69,7 @@ Happy DevOps Learning! 👩‍💻👨‍💻
 
 [Apply Now](https://forms.gle/uLGHfcvXZWG9LARK9)
 
-![flow chart](https://raw.githubusercontent.com/DevOps-With-Babar-Zahoor/.github/main/profile/images/complete-learning-flow.drawio-5.png)
+![flow chart](https://github.com/DevOps-With-Babar-Zahoor/.github/blob/5272ab2ac9191b2c38ca45b620992d75560d9052/profile/images/complete-learning-flow.drawio-6.png)
 
 [Apply Now](https://forms.gle/uLGHfcvXZWG9LARK9)
 
