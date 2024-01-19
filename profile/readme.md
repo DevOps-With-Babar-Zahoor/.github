@@ -389,8 +389,7 @@ Thank you for contributing to our certification process!
 - Sign-In to your GitHub.com ✅
 - Open the URL: https://github.com/orgs/DevOps-With-Babar-Zahoor/projects/2/views/6 🌐
 - Open the assigned issue 📄
-- Check the submitted URL of the readme.md (only click if the URL is from domain https://github.com/) ⚠️
-  * Please don't click if the URL domain is not github.com (that could be an unsafe URL) ❌
+
 - Reject if the following happens:
   1. Video length is more than 30 seconds (strictly follow it) ⏱️
   1. Mobile camera recording of the screen is not acceptable 🚫📱
