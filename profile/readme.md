@@ -80,6 +80,8 @@ A flow chart is shown above is based on the following rules and procedures for t
 ## ⚠️ Before Apply
 ### 🔒 Get the following accounts (not required if you have all 5 accounts):
 
+- A Linux Based System (Laptop / Desktop running an OS of any flavour of Linux - Recommended is Ubuntu 20.04)
+  - Not Recommended - Using a Virtual Machine (
 - Gmail Account (or Google Workspace) - Free [Get it now](https://accounts.google.com/signup?continue=https://mail.google.com/mail/)
 - GitHub (Free)  [Get it now](https://github.com/signup)
 - LinkedIn (Free)  [Get it now](https://linkedin.com/signup)
