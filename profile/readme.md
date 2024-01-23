@@ -162,7 +162,7 @@ if the solution is solved then move to Step 4 for submission for validation, and
 
 #### Sub-Step B: 🕵️‍♂️ Research 
 
-   - Google the Error Log.
+   - Google the Error Log..
    - Check out askubuntu.com or relevant documentation.
    - Find Documentation.
    - if the solution is solved then move to Step 4, and if facing any issues, please proceed with the following instructions
