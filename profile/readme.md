@@ -365,7 +365,10 @@ Thank you for contributing to our certification process!
 - Open the tasks (GitHub Issues) one by one 📄
 
 - Reject if the following happens:
-  1. Video length is more than 1 minute (strictly follow it) ⏱️
+  1. Template.md is not used to submit the issue 📝❌
+     1. OSFP Membership number is not written
+     2. The name is not written.
+  2. Video length is more than 1 minute (strictly follow it) ⏱️
   1. Mobile camera recording of the screen is not acceptable 🚫📱
   1. Watermark is not used (as same as of YouTube channel ID)
   1. No voice message within the video, explaining the success 🔊❌
@@ -374,9 +377,6 @@ Thank you for contributing to our certification process!
      1. YouTube uploaded video URL ❌🔗
   1. Research Results are not there. ❌🔍
   1. Hashtags are not being used while publishing #️⃣❌
-  1. Template.md is not used to submit the issue 📝❌
-     1. OSFP Membership number is not written
-     2. The name is not written.
   1. The issue is not opened in the relevant/right topic, for example issue is about Linux and is opened in Kubernetes ❌🔄
 - Check the submitted URL of the readme.md (only click if the URL is from domain https://github.com/) ⚠️
   * Please don't click if the URL domain is not github.com (that could be an unsafe URL) ❌
